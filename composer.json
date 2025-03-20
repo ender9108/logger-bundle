@@ -2,6 +2,7 @@
     "name": "enderlab/logger-bundle",
     "description": "",
     "type": "symfony-bundle",
+    "version": "1.0.0",
     "licence": "MIT",
     "autoload": {
         "psr-4": {
