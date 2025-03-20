@@ -1,0 +1,16 @@
+{
+    "name": "enderlab/logger-bundle",
+    "description": "",
+    "type": "symfony-bundle",
+    "licence": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EnderLab\\LoggerBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "EnderLab\\LoggerBundle\\Tests\\": "tests/"
+        }
+    }
+}
